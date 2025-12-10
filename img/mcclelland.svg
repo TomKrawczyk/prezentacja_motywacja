@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="160" viewBox="0 0 360 160">
+  <rect width="360" height="160" fill="#f9fafb"/>
+  <g font-family="Segoe UI, Arial" font-size="12" text-anchor="middle">
+    <circle cx="70" cy="80" r="40" fill="#2563eb" opacity="0.12" stroke="#2563eb"/>
+    <text x="70" y="85" fill="#2563eb">nAch</text>
+    <circle cx="180" cy="80" r="40" fill="#14b8a6" opacity="0.12" stroke="#14b8a6"/>
+    <text x="180" y="85" fill="#14b8a6">nPow</text>
+    <circle cx="290" cy="80" r="40" fill="#2563eb" opacity="0.12" stroke="#2563eb"/>
+    <text x="290" y="85" fill="#2563eb">nAff</text>
+  </g>
+</svg>

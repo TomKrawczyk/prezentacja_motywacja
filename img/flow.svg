@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200">
+  <rect width="360" height="200" fill="#f9fafb"/>
+  <g font-family="Segoe UI, Arial" font-size="12" fill="#2563eb">
+    <text x="20" y="20">Flow: balans wyzwanie–umiejętności</text>
+    <rect x="40" y="50" width="120" height="50" rx="8" fill="#2563eb" opacity="0.12" stroke="#2563eb"/>
+    <text x="100" y="80" text-anchor="middle">Nuda</text>
+    <rect x="200" y="50" width="120" height="50" rx="8" fill="#14b8a6" opacity="0.12" stroke="#14b8a6"/>
+    <text x="260" y="80" text-anchor="middle" fill="#14b8a6">Lęk</text>
+    <rect x="120" y="120" width="120" height="50" rx="8" fill="#2563eb" opacity="0.12" stroke="#2563eb"/>
+    <text x="180" y="150" text-anchor="middle">FLOW</text>
+  </g>
+</svg>
